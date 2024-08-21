@@ -1,9 +1,9 @@
 import type { NextSeoProps } from "next-seo";
 
-const BASE_URL = "https://charlieruiz.dev";
-const DEFAULT_TITLE = `Charlie Ruiz 🧑🏻‍💻 | Software Engineer`;
+const BASE_URL = "https://javiermelendez.dev";
+const DEFAULT_TITLE = `Javier J. Melendez De Miranda 🧑🏻‍💻 | Software Engineer`;
 const DEFAULT_DESCRIPTION =
-  "Software Engineer with 9 years of experience specialized in building user-centric products that deliver real value by leveraging a wide range of technologies and skills, including (but not limited to) Javascript/Typescript, React, Next.js, Solidity, SQL/No-SQL, AWS, and more.";
+    "I'm a Software Engineer with 3 years of experience specialized in full-stack software development that drive real value by harnessing a diverse set of technologies and skills. I'm a strong communicator in both English and Spanish and I always try to cultivate a strong work culture that translates into exceptional products and a thriving work environment. Javascript/Typescript, React, Next.js, SQL/No-SQL, Python, Pyside6, Automation Test, and more.";
 
 /**
  * Default SEO settings. These are the fallbacks if a `NextSeo` component is not
@@ -24,7 +24,7 @@ export const DEFAULT_SEO: NextSeoProps = {
         url: `${BASE_URL}/images/default-share.jpeg`,
         width: 1200,
         height: 640,
-        alt: "Charlie Ruiz",
+        alt: "Javier J. Melendez De Miranda",
         type: "image/jpeg",
       },
     ],

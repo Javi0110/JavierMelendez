@@ -70,7 +70,7 @@ export const ContactModal = () => {
           <br />
           ✉️ Send me an email
           <br />
-          <b>charlieruiz.dev &lt;at&gt; gmail &lt;dot&gt; com</b>
+          <b>javierjmelendezdemiranda.dev &lt;at&gt; gmail &lt;dot&gt; com</b>
         </p>
       </div>
     </div>

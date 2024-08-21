@@ -4,10 +4,6 @@ export const LINKS = [
     url: "/resume",
   },
   {
-    label: "Portfolio",
-    url: "/portfolio",
-  },
-  {
     label: "Contact",
     url: "#contact",
   },

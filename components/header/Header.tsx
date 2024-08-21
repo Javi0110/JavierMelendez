@@ -7,7 +7,7 @@ export const Header = () => {
     <header className="flex items-center w-full max-w-7xl justify-between p-4 print:hidden mx-auto">
       <Link href="/">
         <Image
-          alt="Charlie Ruiz"
+          alt="Javier J. Melendez De Miranda"
           src="/images/logo.webp"
           width={164}
           height={68}

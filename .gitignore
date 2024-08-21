@@ -43,3 +43,4 @@ jspm_packages
 .env.example
 .env.local
 .env.staging
+/.vs

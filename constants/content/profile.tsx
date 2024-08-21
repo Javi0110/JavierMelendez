@@ -3,7 +3,7 @@ export const profile = {
   jobTitle: "Software Engineer",
   statement: (
     <>
-       am a Software Engineer with over 3 years of experience specializing in full-stack development.
+      I am a Software Engineer with over 3 years of experience specializing in full-stack development.
       My expertise includes designing efficient solutions, automating processes, and delivering scalable software.
       Driven by a passion for creativity and innovation, I focus on building high-quality, impactful software that
       solves complex problems and adds value to every project. {" "}

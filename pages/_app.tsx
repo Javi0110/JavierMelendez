@@ -25,7 +25,7 @@ const App = ({ Component, pageProps }: AppProps) => {
       {/* Google Analytics */}
       <Script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-KFRPLKK9YW"
+           src="https://www.googletagmanager.com/gtag/js?id=G-GLBCJ7FT23"
       ></Script>
       <Script>
         {`
@@ -33,7 +33,7 @@ const App = ({ Component, pageProps }: AppProps) => {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-KFRPLKK9YW');
+        gtag('config', 'G-GLBCJ7FT23');
         `}
       </Script>
     </AnimatePresence>

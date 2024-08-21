@@ -21,7 +21,7 @@ export const DEFAULT_SEO: NextSeoProps = {
     images: [
       {
         // OG image paths must include the host in the URL
-        url: `${BASE_URL}/images/default-share.jpeg`,
+        url: `${BASE_URL}/images/default-share_.jpeg`,
         width: 1200,
         height: 640,
         alt: "Javier J. Melendez De Miranda",
